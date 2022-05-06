@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "8faa3a5127c32573",
+    "type": "split",
+    "children": [
+      {
+        "id": "63609b551447c15a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "android/android-basic-note/00-android-system.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "455c5e9e290440ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "17371618bcfe47dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c38b2c2926734f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b864b4da2cffcb6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214
+  },
+  "right": {
+    "id": "d65a242cbcc394ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd62b3085c0db22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed6f69a983ac771",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "android/android-basic-note/00-android-system.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "63609b551447c15a",
+  "lastOpenFiles": [
+    "android/android-basic-note/00-android-system.md",
+    "android/android-basic-note/01-android-log.md",
+    "android/android-basic-note/02-activity.md",
+    "android/android-roadmap.md",
+    "res/img/android-flowdiagram.png",
+    "res/img/image-20220501220803769.png",
+    "res/img/image-20220501234215796.png",
+    "res/img/image-20220501233131617.png",
+    "android-learning-plan.md",
+    "android-roadmap.md"
+  ]
+}
