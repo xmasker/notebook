@@ -121,9 +121,15 @@
 
 [探索 Android Studio  | Android 开发者  | Android Developers](https://developer.android.com/studio/intro)
 
-
+[利用注解改进代码检查  | Android 开发者  | Android Developers](https://developer.android.com/studio/write/annotations)
 
 # 基础知识
 
 Android Studio 不使用工作区，因此各个项目在单独的 Android Studio 窗口中打开。
+
+
+
+# 使用注解改进代码检查
+
+[利用注解改进代码检查  | Android 开发者  | Android Developers](https://developer.android.com/studio/write/annotations)
 
