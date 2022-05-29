@@ -121,7 +121,7 @@ git merge 新分支
 
 ## 3 way merge
 
-![image-20220515182614848](F:/note/synnote/res/img/image-20220515182614848.png)
+![image-20220515182614848](G:/note/synnote/res/img/image-20220515182614848.png)
 
 3 way merge 会产生一个merge commit。如果 C3、C4 修改了同一个文件，merge 会有冲突，需要人工介入解决
 

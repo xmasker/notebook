@@ -95,4 +95,4 @@ RelativeLayout中还有另外一组相对于控件进行定位的属性，androi
 
 ## 控件和布局的继承结构
 
-![image-20220530011100978](F:/note/synnote/res/img/image-20220530011100978.png)
+![image-20220530011100978](G:/note/synnote/res/img/image-20220530011100978.png)
