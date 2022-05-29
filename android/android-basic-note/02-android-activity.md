@@ -240,7 +240,7 @@ Activity类中定义了7个回调方法，覆盖了Activity生命周期的每一
 
 Activity 生命周期示意图
 
-![image-20220529183108909](G:/note/synnote/res/img/image-20220529183108909.png)
+![image-20220529183108909](../../res/img/image-20220529183108909.png)
 
 ## Activity被回收了怎么办
 
