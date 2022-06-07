@@ -165,10 +165,6 @@ git pull 等于 git fetch 加 git merge origin/master，多产生一个 .git/ORI
 
 git gc 对象压缩
 
-```bash
-
-```
-
 
 
 git push 使用前提是本地分支和远程分支已经关联
@@ -181,9 +177,25 @@ git push -u origin 新建分支
 
 
 
+# git hook 略
+
+git 有很多操作，在这些操作之前或之后，可以触发特定的hook做特定的事情（如检查）。
+
+Non blocking hook
+
+Blocking hook,skippable
+
+Blocking hook
+
+
+
 #  略略略
 
 - 标签Tag
+- submodule
+- worktree
+- 30 / 35
+- Git Pro
 
 # 参考链接
 
