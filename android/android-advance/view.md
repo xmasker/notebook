@@ -1,6 +1,6 @@
 # 一、View 基础知识
 
-**View是Android中所有控件的基类。**View是一种界面层的控件的一种抽象，它代表了一个控件。除了View，还有ViewGroup。在Android的设计中，ViewGroup也继承了View，这就意味着 View本身就可以是单个控件也可以是由多个控件组成的一组控件，通过这种关系就形成了View树的结构，这和Web前端中的DOM树的概念是相似的。Button显然是个View，而LinearLayout不但是一个View而且还是一个ViewGroup，而ViewGroup内部是可以有子View的，这个子View同样 还可以是ViewGroup，依此类推。
+**View是Android中所有控件的基类。**View是一种界面层的控件的一种抽象，它代表了一个控件。除了View，还有ViewGroup。在Android的设计中，ViewGroup也继承了View，这就意味着 View本身就可以是单个控件也可以是由多个控件组成的一组控件，通过这种关系就形成了View树的结构，这和Web前端中的DOM树的概念是相似的。Button显然是个View，而**LinearLayout不但是一个View而且还是一个ViewGroup**，而ViewGroup内部是可以有子View的，这个子View同样 还可以是ViewGroup，依此类推。
 
 **View的位置**主要由它的四个顶点来决定，分别对应于View的四个属性：top、left、right、bottom，其中top是左上角纵坐标，left是左上角横坐标，right是右 下角横坐标，bottom是右下角纵坐标。需要注意的是，这些坐标都是相对于View的父容器来说的，因此它是一种相对坐标。
 
